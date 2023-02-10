@@ -955,6 +955,22 @@ export const Amazon: Store = {
       series: '4080-16g',
       url: 'https://www.amazon.com/dp/B0BG95T5WD',
     },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0BSVM969H&Quantity.1=1',
+      model: 'strix white',
+      series: '4090',
+      url: 'https://www.amazon.com/dp/B0BSVM969H',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0BSVMLVTD&Quantity.1=1',
+      model: 'strix oc white',
+      series: '4090',
+      url: 'https://www.amazon.com/dp/B0BSVMLVTD/',
+    },
   ],
   name: 'amazon',
 };
