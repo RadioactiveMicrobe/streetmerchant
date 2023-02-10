@@ -11,7 +11,7 @@ export const Asus: Store = {
     },
     outOfStock: {
       container: '#off_sale',
-      text: ['sold out'],
+      text: ['notify me'],
     },
   },
   links: [
@@ -154,6 +154,34 @@ export const Asus: Store = {
       model: 'crosshair viii',
       series: 'darkhero',
       url: 'https://store.asus.com/us/item/202011AM200000003',
+    },
+     {
+      brand: 'asus',
+      itemNumber: '90YV0ID2-M0AA00',
+      model: 'strix oc white',
+      series: '4090',
+      url: 'https://shop.asus.com/us/90yv0id2-m0aa00-rog-strix-rtx4090-o24g-white.html',
+    },
+     {
+      brand: 'asus',
+      itemNumber: '90YV0ID3-M0AA00',
+      model: 'strix white',
+      series: '4090',
+      url: 'https://shop.asus.com/us/90yv0id3-m0aa00-rog-strix-rtx4090-24g-white.html',
+    },
+     {
+      brand: 'asus',
+      itemNumber: '90YV0ID1-M0AA00',
+      model: 'strix',
+      series: '4090',
+      url: 'https://shop.asus.com/us/90yv0id1-m0aa00-rog-strix-rtx4090-24g-gaming.html',
+    },
+     {
+      brand: 'asus',
+      itemNumber: '90YV0ID0-M0AA00',
+      model: 'strix oc',
+      series: '4090',
+      url: 'https://shop.asus.com/us/90yv0id0-m0aa00-rog-strix-rtx4090-o24g-gaming.html',
     },
   ],
   name: 'asus',
