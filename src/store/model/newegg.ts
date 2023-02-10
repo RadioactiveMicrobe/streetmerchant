@@ -1590,6 +1590,15 @@ export const Newegg: Store = {
       series: '4080-16g',
       url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814126601',
     },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126616',
+      model: 'strix oc white',
+      series: '4090',
+      url: 'https://www.newegg.com/asus-geforce-rtx-4090-rog-strix-rtx4090-o24g-white/p/N82E16814126616',
+    },
+    
   ],
   name: 'newegg',
   realTimeInventoryLookup: async (itemNumber: string) => {
