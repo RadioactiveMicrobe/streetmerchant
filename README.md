@@ -30,5 +30,3 @@ cd streetmerchant && npm i && npm run start
 ```
 
 For more information and customization, visit [jef.buzz/streetmerchant/getting-started](https://jef.buzz/streetmerchant/getting-started).
-
-https://discord.com/api/webhooks/1073804994668671076/nmu_TshKLWXD7TG-T9kdmcXbdyOCDRHO8ej9B8PZ2YfKBCCnzCpHptNfqDLyxc1VG95w
